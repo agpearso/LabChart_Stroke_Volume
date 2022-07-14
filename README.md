@@ -1,0 +1,1 @@
+# LabChart_Stroke_Volume
